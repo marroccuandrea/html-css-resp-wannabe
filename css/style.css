@@ -128,9 +128,18 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+/* FIX TABLET */
 
 @media (max-width: 768px){
     .container{
         width: 100%;
     }
 }
+
+/* FIX TABLET */
+
+/* FIX MOBILE */
+
+
+
+/* FIX MOBILE */
